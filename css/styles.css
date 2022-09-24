@@ -8,8 +8,8 @@
 }
 body {
     font-family: 'Montserrat', sans-serif;
-font-style: normal;
-background-color:  #E5E5E5;
+    font-style: normal;
+    background-color:  #E5E5E5;
 }
 .main {
     display: flex;
